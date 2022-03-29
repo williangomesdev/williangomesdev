@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/williangomesdev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](willianamaroti@gmail.com)
+<div>
+<a href="www.linkedin.com/in/williangomesdev" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailTo:willianamaroti@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
 
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT.
 - In order to have an opportunity to start a career as a front-end developer
